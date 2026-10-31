@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds a deadline register for licences, insurance certs, and filings, with advance-alert wording.",
+  "keywords": [
+    "compliance",
+    "kairos",
+    "small business",
+    "tracker"
+  ],
+  "license": "MIT",
+  "name": "kairos-compliance-tracker",
+  "repository": "https://github.com/baselam88/kairos-compliance-tracker-plugin",
+  "version": "0.1.0"
+}
